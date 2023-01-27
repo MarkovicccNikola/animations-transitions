@@ -1,17 +1,19 @@
 :root {
-    --dark-color: #635bff;
-    --light-color: #80e9ff;
+  --dark-color: #635bff;
+  --light-color: #80e9ff;
 }
 
 svg {
-    cursor: pointer;
+  width: 500px;
+  height: 540px;
+  cursor: pointer;
 }
 
 #darkGroup {
-    fill: var(--dark-color);
+  fill: var(--dark-color);
 }
 #lightGroup {
-    fill: var(--light-color);
+  fill: var(--light-color);
 }
 
 /* animation */
@@ -19,22 +21,22 @@ svg {
 #dark1,
 #light1,
 #dark2 {
-    transition: all 1s ease;
+  transition: all 1s ease;
 }
 
 #dark2 {
-    transform: translateX(-100%);
+  transform: translateX(-100%);
 }
 
 svg:hover #light1 {
-    transform: translateX(20%);
+  transform: translateX(10%);
 }
 
 svg:hover #dark1 {
-    transform: translateX(40%);
-    opacity: 0;
+  transform: translateX(40%);
+  opacity: 0;
 }
 
 svg:hover #dark2 {
-    transform: translateX(10%);
+  transform: translateX(0%);
 }
