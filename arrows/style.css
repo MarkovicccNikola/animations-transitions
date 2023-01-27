@@ -3,9 +3,18 @@
   --light-color: #80e9ff;
 }
 
+body {
+  height: 100vh;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
 svg {
-  width: 500px;
-  height: 540px;
+  margin-left: 150px;
+  width: 400px;
+  height: 480px;
   cursor: pointer;
 }
 
