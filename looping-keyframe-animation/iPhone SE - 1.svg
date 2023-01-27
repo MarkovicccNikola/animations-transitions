@@ -1,0 +1,76 @@
+<svg width="320" height="568" viewBox="0 0 320 568" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="iPhone SE - 1">
+<g id="phone" filter="url(#filter0_d_1_3)">
+<rect x="32" y="57" width="256" height="454" rx="40" fill="url(#paint0_linear_1_3)"/>
+</g>
+<g id="skeleton">
+<g id="upper">
+<circle id="Ellipse 1" cx="76" cy="92" r="13" fill="#ECECEC"/>
+<rect id="Rectangle 2" x="229" y="79" width="30" height="6" rx="1" fill="#ECECEC"/>
+<rect id="Rectangle 3" x="229" y="88" width="30" height="6" rx="1" fill="#ECECEC"/>
+<rect id="Rectangle 4" x="229" y="97" width="30" height="6" rx="1" fill="#ECECEC"/>
+<rect id="Rectangle 5" x="63" y="140" width="60" height="16" rx="3" fill="#DDDDDD"/>
+<rect id="Rectangle 8" x="63" y="165" width="85" height="16" rx="3" fill="#DDDDDD"/>
+<rect id="Rectangle 6" x="134" y="140" width="62" height="16" rx="3" fill="#DDDDDD"/>
+<rect id="Rectangle 9" x="160" y="165" width="60" height="16" rx="3" fill="#DDDDDD"/>
+<rect id="Rectangle 7" x="210" y="140" width="49" height="16" rx="3" fill="#DDDDDD"/>
+<rect id="Rectangle 10" x="226" y="165" width="33" height="16" rx="3" fill="#DDDDDD"/>
+</g>
+<g id="Group 1">
+<rect id="Rectangle 12" x="64.0889" y="280" width="87.115" height="87.115" rx="4" fill="#D9D9D9"/>
+<path id="Vector 1" d="M96.757 319.746L64.0889 338.803V363.115C64.0889 365.324 65.8798 367.115 68.0889 367.115H147.204C149.413 367.115 151.204 365.324 151.204 363.115V313.757L112.002 335.536L96.757 319.746Z" fill="#676767"/>
+</g>
+<g id="Group 3">
+<rect id="Rectangle 12_2" x="63" y="396.723" width="87.115" height="87.115" rx="4" fill="#D9D9D9"/>
+<path id="Vector 1_2" d="M95.6681 436.469L63 455.525V479.838C63 482.047 64.7909 483.838 67 483.838H146.115C148.324 483.838 150.115 482.047 150.115 479.838V430.48L110.913 452.258L95.6681 436.469Z" fill="#676767"/>
+</g>
+<g id="Group 2">
+<rect id="Rectangle 12_3" x="170.885" y="280" width="87.115" height="87.115" rx="4" fill="#D9D9D9"/>
+<path id="Vector 1_3" d="M203.553 319.746L170.885 338.803V363.115C170.885 365.324 172.676 367.115 174.885 367.115H254C256.209 367.115 258 365.324 258 363.115V313.757L218.798 335.536L203.553 319.746Z" fill="#676767"/>
+</g>
+<g id="Group 4">
+<rect id="Rectangle 12_4" x="169.796" y="396.723" width="87.115" height="87.115" rx="4" fill="#D9D9D9"/>
+<path id="Vector 1_4" d="M202.464 436.469L169.796 455.525V479.838C169.796 482.047 171.587 483.838 173.796 483.838H252.911C255.12 483.838 256.911 482.047 256.911 479.838V430.48L217.709 452.258L202.464 436.469Z" fill="#676767"/>
+</g>
+<rect id="Rectangle 11" x="97" y="215" width="126" height="31" rx="15.5" fill="#DDDDDD"/>
+</g>
+<g id="bolt">
+<g id="bolt1">
+<rect id="Rectangle 12_5" x="97" y="215" width="126" height="31" rx="15.5" fill="#1DEC19"/>
+<path id="Vector 3" d="M157 218H165.222L161.667 227.637H167L153.667 243L157.667 231.01H153L157 218Z" fill="white"/>
+</g>
+<g id="bolt3">
+<circle id="Ellipse 2" cx="258" cy="280" r="14" fill="#1DEC19"/>
+<path id="Vector 2" d="M256.552 271.793H262.506L259.931 278.493H263.793L254.138 289.172L257.034 280.837H253.655L256.552 271.793Z" fill="white"/>
+</g>
+<g id="bolt5">
+<circle id="Ellipse 2_2" cx="257" cy="397" r="14" fill="#1DEC19"/>
+<path id="Vector 2_2" d="M255.552 388.793H261.506L258.931 395.493H262.793L253.138 406.172L256.034 397.837H252.655L255.552 388.793Z" fill="white"/>
+</g>
+<g id="bolt2">
+<circle id="Ellipse 2_3" cx="151" cy="280" r="14" fill="#1DEC19"/>
+<path id="Vector 2_3" d="M149.552 271.793H155.506L152.931 278.493H156.793L147.138 289.172L150.034 280.837H146.655L149.552 271.793Z" fill="white"/>
+</g>
+<g id="bolt4">
+<circle id="Ellipse 2_4" cx="150" cy="397" r="14" fill="#1DEC19"/>
+<path id="Vector 2_4" d="M148.552 388.793H154.506L151.931 395.493H155.793L146.138 406.172L149.034 397.837H145.655L148.552 388.793Z" fill="white"/>
+</g>
+</g>
+</g>
+<defs>
+<filter id="filter0_d_1_3" x="22" y="54" width="276" height="474" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="7"/>
+<feGaussianBlur stdDeviation="5"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.3 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_1_3"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_1_3" result="shape"/>
+</filter>
+<linearGradient id="paint0_linear_1_3" x1="160" y1="57" x2="160" y2="511" gradientUnits="userSpaceOnUse">
+<stop stop-color="#F7F7F7"/>
+<stop offset="1" stop-color="#D9D9D9"/>
+</linearGradient>
+</defs>
+</svg>
