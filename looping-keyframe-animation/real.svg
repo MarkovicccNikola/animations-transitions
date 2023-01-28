@@ -1,0 +1,75 @@
+<svg width="326" height="530" viewBox="0 0 326 530" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="iPhone SE - 1">
+<g id="Vector 4" filter="url(#filter0_d_1_3)">
+<path d="M209 36H120C82.2876 36 63.4315 36 51.7157 47.7157C40 59.4315 40 78.2876 40 116V416C40 453.712 40 472.569 51.7157 484.284C63.4315 496 82.2876 496 120 496H209C246.712 496 265.569 496 277.284 484.284C289 472.569 289 453.712 289 416V116C289 78.2876 289 59.4315 277.284 47.7157C265.569 36 246.712 36 209 36Z" fill="url(#paint0_linear_1_3)" fill-opacity="0.999"/>
+</g>
+<g id="skeleton">
+<g id="upper">
+<circle id="Ellipse 1" cx="79" cy="73" r="13" fill="#ECECEC"/>
+<rect id="Rectangle 2" x="232" y="60" width="30" height="6" rx="1" fill="#ECECEC"/>
+<rect id="Rectangle 3" x="232" y="69" width="30" height="6" rx="1" fill="#ECECEC"/>
+<rect id="Rectangle 4" x="232" y="78" width="30" height="6" rx="1" fill="#ECECEC"/>
+<rect id="Rectangle 5" x="66" y="121" width="60" height="16" rx="3" fill="#DDDDDD"/>
+<rect id="Rectangle 8" x="66" y="146" width="85" height="16" rx="3" fill="#DDDDDD"/>
+<rect id="Rectangle 6" x="137" y="121" width="62" height="16" rx="3" fill="#DDDDDD"/>
+<rect id="Rectangle 9" x="163" y="146" width="60" height="16" rx="3" fill="#DDDDDD"/>
+<rect id="Rectangle 7" x="213" y="121" width="49" height="16" rx="3" fill="#DDDDDD"/>
+<rect id="Rectangle 10" x="229" y="146" width="33" height="16" rx="3" fill="#DDDDDD"/>
+</g>
+<g id="Group 1">
+<rect id="Rectangle 12" x="67.0889" y="261" width="87.115" height="87.115" rx="4" fill="#D9D9D9"/>
+<path id="Vector 1" d="M99.757 300.746L67.0889 319.803V344.115C67.0889 346.324 68.8798 348.115 71.0889 348.115H150.204C152.413 348.115 154.204 346.324 154.204 344.115V294.757L115.002 316.536L99.757 300.746Z" fill="#676767"/>
+</g>
+<g id="Group 3">
+<rect id="Rectangle 12_2" x="66" y="377.723" width="87.115" height="87.115" rx="4" fill="#D9D9D9"/>
+<path id="Vector 1_2" d="M98.6681 417.469L66 436.525V460.838C66 463.047 67.7909 464.838 70 464.838H149.115C151.324 464.838 153.115 463.047 153.115 460.838V411.48L113.913 433.258L98.6681 417.469Z" fill="#676767"/>
+</g>
+<g id="Group 2">
+<rect id="Rectangle 12_3" x="173.885" y="261" width="87.115" height="87.115" rx="4" fill="#D9D9D9"/>
+<path id="Vector 1_3" d="M206.553 300.746L173.885 319.803V344.115C173.885 346.324 175.676 348.115 177.885 348.115H257C259.209 348.115 261 346.324 261 344.115V294.757L221.798 316.536L206.553 300.746Z" fill="#676767"/>
+</g>
+<g id="Group 4">
+<rect id="Rectangle 12_4" x="172.796" y="377.723" width="87.115" height="87.115" rx="4" fill="#D9D9D9"/>
+<path id="Vector 1_4" d="M205.464 417.469L172.796 436.525V460.838C172.796 463.047 174.587 464.838 176.796 464.838H255.911C258.12 464.838 259.911 463.047 259.911 460.838V411.48L220.709 433.258L205.464 417.469Z" fill="#676767"/>
+</g>
+<rect id="Rectangle 11" x="100" y="196" width="126" height="31" rx="15.5" fill="#DDDDDD"/>
+</g>
+<g id="bolt">
+<g id="bolt1">
+<rect id="Rectangle 12_5" x="100" y="196" width="126" height="31" rx="15.5" fill="#1DEC19"/>
+<path id="Vector 3" d="M160 199H168.222L164.667 208.637H170L156.667 224L160.667 212.01H156L160 199Z" fill="white"/>
+</g>
+<g id="bolt3">
+<circle id="Ellipse 2" cx="261" cy="261" r="14" fill="#1DEC19"/>
+<path id="Vector 2" d="M259.552 252.793H265.506L262.931 259.493H266.793L257.138 270.172L260.034 261.837H256.655L259.552 252.793Z" fill="white"/>
+</g>
+<g id="bolt5">
+<circle id="Ellipse 2_2" cx="260" cy="378" r="14" fill="#1DEC19"/>
+<path id="Vector 2_2" d="M258.552 369.793H264.506L261.931 376.493H265.793L256.138 387.172L259.034 378.837H255.655L258.552 369.793Z" fill="white"/>
+</g>
+<g id="bolt2">
+<circle id="Ellipse 2_3" cx="154" cy="261" r="14" fill="#1DEC19"/>
+<path id="Vector 2_3" d="M152.552 252.793H158.506L155.931 259.493H159.793L150.138 270.172L153.034 261.837H149.655L152.552 252.793Z" fill="white"/>
+</g>
+<g id="bolt4">
+<circle id="Ellipse 2_4" cx="153" cy="378" r="14" fill="#1DEC19"/>
+<path id="Vector 2_4" d="M151.552 369.793H157.506L154.931 376.493H158.793L149.138 387.172L152.034 378.837H148.655L151.552 369.793Z" fill="white"/>
+</g>
+</g>
+</g>
+<defs>
+<filter id="filter0_d_1_3" x="25" y="28" width="279" height="490" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="7"/>
+<feGaussianBlur stdDeviation="7.5"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_1_3"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_1_3" result="shape"/>
+</filter>
+<linearGradient id="paint0_linear_1_3" x1="164.5" y1="36" x2="164.5" y2="496" gradientUnits="userSpaceOnUse">
+<stop stop-color="#FDFDFD"/>
+<stop offset="1" stop-color="#D9D9D9"/>
+</linearGradient>
+</defs>
+</svg>
